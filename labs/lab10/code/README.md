@@ -1,0 +1,4 @@
+## vagrant
+
+Файлы для Vagrant.
+
